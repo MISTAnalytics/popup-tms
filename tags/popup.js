@@ -1,8 +1,8 @@
 <script>
 
 setTimeout(function(){
-var credits = jQuery('.class').text();
-credits = parseInt(bestel);
+var punten = jQuery('.class').text();
+punten = parseInt(bestel);
 console.log('1');
 if (aantal > 10)
 {
